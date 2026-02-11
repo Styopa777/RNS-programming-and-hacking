@@ -1,0 +1,8 @@
+print("Բարև Ninja-Hacker-ից!")
+
+x = int(inpu(գրիր մի թիվ))
+y = int(input(գրիր մի թիվ))
+print("Գումար =", x + y)
+
+for i in range(3):
+    print("i =", i)
